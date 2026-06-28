@@ -1,6 +1,10 @@
 # DayZ Enforce Script — Modding Wiki
 
 <p align="center">
+  <img src="data/banner.png" alt="DayZ Enforce Script — Modding Wiki" width="900">
+</p>
+
+<p align="center">
   <b>A practical, hands-on guide to creating DayZ mods with Enforce Script & the Enfusion engine.</b><br>
   Not a dump of existing mod structures — a focused playbook for <i>how to actually build</i>: layers, RPC, actions, UI, frameworks, and the syntax traps that crash the compiler.
 </p>
