@@ -105,6 +105,7 @@ DAYZ_Enforce-Script/
 - [CF ModStorage](Frameworks/Community-Framework/CF/How-To-CF-ModStorage.md)
 - [Dabs Framework](Frameworks/Dabs-Framework.md)
 - [DayZ Expansion](Frameworks/DayZ-Expansion.md)
+- [Psyerns Framework](Frameworks/Psyerns-Framework.md)
 - [Layouts & MVC Guide](Layouts/README.md)
 - [Widget Types Reference](Layouts/Reference/Widget-Types-Reference.md)
 - [DayZ 1.29 Notes](DayZGame/DayZ-1.29.161219.md)
