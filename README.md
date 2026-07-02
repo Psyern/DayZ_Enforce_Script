@@ -110,6 +110,7 @@ DAYZ_Enforce-Script/
 - [Widget Types Reference](Layouts/Reference/Widget-Types-Reference.md)
 - [DayZ 1.29 Notes](DayZGame/DayZ-1.29.161219.md)
 - 🤖 [Safe AI Coding Prompt](Frameworks/Safe-AI-CodingPrompt.md)
+- 🤖 [Claude Code Skill](.claude/skills/enforce-script/README.md)
 
 </td>
 </tr>
